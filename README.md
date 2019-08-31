@@ -15,10 +15,9 @@ static{
 		
 	}
 ```
-* Autor [Alejandro G. Vera](https://alexielardilla.github.io/dev_portfolio/)</br>
-
-</br>
- 
-### Enjoy!
+## Autor: ✒️
+* [Alejandro G. Vera](https://linkedin.com/in/alejandro-gonzalo-vera/)
+<br/></br>
+# Enjoy!
 
 

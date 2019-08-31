@@ -1,7 +1,7 @@
 # Conexion-basica-BBDD-Java
 Template de uan conexión muy básica a BBDD SQL_SERVER 🚀
 
-## Incluir el driver: sqljdbc42.jar en lib 🔧
+### Incluir el driver: sqljdbc42.jar en lib 🔧
 
 ### Dentro de "Mi conexión ingresar los datos de la base pass user etc."
 
@@ -19,6 +19,6 @@ static{
 
 </br>
 
-## Enjoy!
+### Enjoy!
 
 

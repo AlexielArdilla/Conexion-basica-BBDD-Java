@@ -18,6 +18,7 @@ static{
 * Autor [Alejandro G. Vera](https://alexielardilla.github.io/dev_portfolio/)</br>
 
 </br>
-### Enjoy!
+
+## Enjoy!
 
 

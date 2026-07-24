@@ -16,7 +16,7 @@ static{
 	}
 ```
 ## Autor: ✒️
-* [Alejandro G. Vera](https://linkedin.com/in/alejandro-gonzalo-vera/)
+* [Alejandro G. Vera](https://elrinconsecretodelhacker.blogspot.com/)
 <br/></br>
 # Enjoy!
 
